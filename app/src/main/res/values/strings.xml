@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gerador-de-senha</string>
+    <string name="txt_titulo">Gerador de Texto</string>
+    <string name="txt_button">Gerar senha</string>
+</resources>
